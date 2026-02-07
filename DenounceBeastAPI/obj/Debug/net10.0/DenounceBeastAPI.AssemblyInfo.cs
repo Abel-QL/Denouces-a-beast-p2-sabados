@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DenounceBeastAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d9f44b24fedbe16b4d74ddf84bed755177055da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1292de75ac80984eec3575f3a4a75e369a274fb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DenounceBeastAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DenounceBeastAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
